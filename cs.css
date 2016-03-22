@@ -1,0 +1,16 @@
+#background {
+background-image: url('NorthernLights1.jpg');
+background-repeat:no-repeat;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;
+}
+
+#text {
+color:white;
+position:fixed;
+top:50%;
+left:50%;
+}
