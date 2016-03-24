@@ -1,0 +1,16 @@
+<div class="container">
+			<div class="jumbotron">
+				<h1>Karthik Ramalingam</h1>	
+				<p>
+					<a href="https://sg.linkedin.com/in/karthik-ramalingam-07b022106">
+						<img src="linkedin2.png" style="width:42px;height:42px;border:0">
+					</a>
+				</p>
+			</div>
+		</div>
+
+
+
+
+
+</body>
