@@ -8,6 +8,16 @@ background-size:cover;
 background-position:center;
 }
 
+#background2 {
+background-image: url('image/SW.jpg');
+background-repeat:no-repeat;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;
+}
+
 #text {
 color:white;
 position:fixed;
