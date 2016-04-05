@@ -40,8 +40,19 @@ width:30%;
 height:100%
 }
 
+#ptr2{
+width:20%;
+height:100%
+}
+
 #img1{
 border-radius:50%; 
 width:200px; 
 height:200px;
+}
+
+#img2{
+border:0%; 
+width:200px; 
+height:150px;
 }
