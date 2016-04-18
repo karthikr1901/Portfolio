@@ -95,3 +95,16 @@
 .cs-style-1 figcaption a {
 	margin-top: 30px;
 }
+
+
+effect 2
+
+.cs-style-2 figure img {
+	z-index: 10;
+	transition: transform 0.4s;
+}
+
+.no-touch .cs-style-2 figure:hover img,
+.cs-style-2 figure.cs-hover img {
+	transform: translateY(-90px);
+}
